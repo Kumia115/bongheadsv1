@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #898",
+    "symbol": "BH",
+    "image": "897.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "897.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Body",
+            "value": "Yellow Jacket"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Brown Brain"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Blue Wave"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

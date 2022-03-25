@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #1439",
+    "symbol": "BH",
+    "image": "1438.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "1438.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Hat",
+            "value": "Pink Dog"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tan Hunter"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Yellow"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

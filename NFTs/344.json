@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #345",
+    "symbol": "BH",
+    "image": "344.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "344.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Body",
+            "value": "Blue Tracksuit"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Brown Brain"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Lime"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Light Blue"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "White 3D"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

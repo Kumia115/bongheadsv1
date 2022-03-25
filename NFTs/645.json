@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #646",
+    "symbol": "BH",
+    "image": "645.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "645.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Hat",
+            "value": "Icecream"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gradient"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red Ski"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Green Turtleneck"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Purple"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

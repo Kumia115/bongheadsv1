@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #65",
+    "symbol": "BH",
+    "image": "64.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "64.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Network"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Green Snow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Yellow Ski"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Light Blue"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Purple Ghost"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

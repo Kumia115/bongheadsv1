@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #632",
+    "symbol": "BH",
+    "image": "631.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "631.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Hat",
+            "value": "Snake"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Black Sky"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Psychedelic Glasses"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Lime"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Red Scifi"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Light Blue"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

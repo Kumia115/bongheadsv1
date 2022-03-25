@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #773",
+    "symbol": "BH",
+    "image": "772.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "772.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Hat",
+            "value": "Hitman Fedora"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Teal"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Blue Liquid"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Snow"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Blue Peace"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

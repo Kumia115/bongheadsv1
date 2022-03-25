@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #450",
+    "symbol": "BH",
+    "image": "449.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "449.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Teal"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Doctor"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Lime"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Psychedelic Glasses"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Blue Ghost"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #408",
+    "symbol": "BH",
+    "image": "407.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "407.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Dark Purple"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Purple Ghost"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Diamond Bandit"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Peace"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #87",
+    "symbol": "BH",
+    "image": "86.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "86.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Eyes",
+            "value": "Peace Weed"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Blue Dog"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Grey Samurai"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

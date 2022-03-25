@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #1437",
+    "symbol": "BH",
+    "image": "1436.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "1436.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Purple Pikachu Hat"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Blue Hunter"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Orange"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

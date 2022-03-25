@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #579",
+    "symbol": "BH",
+    "image": "578.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "578.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Lime"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Green Lumberjack"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Yellow Ski"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Grey Headphones"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Light Blue"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

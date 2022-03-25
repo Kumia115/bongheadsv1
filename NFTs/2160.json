@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #2161",
+    "symbol": "BH",
+    "image": "2160.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "2160.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Nug",
+            "value": "Cyan"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Cyan Hunter"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Pink Sky"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "None"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Light Blue"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

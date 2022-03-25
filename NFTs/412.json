@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #413",
+    "symbol": "BH",
+    "image": "412.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "412.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Body",
+            "value": "Suit"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Weed Boonie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Purple Circle"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Network"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

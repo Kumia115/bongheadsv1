@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #103",
+    "symbol": "BH",
+    "image": "102.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "102.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Hat",
+            "value": "Psychedelic Viking"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Yellow Space"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Pink Hipster"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Light Purple"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue Aviator"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

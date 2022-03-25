@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #776",
+    "symbol": "BH",
+    "image": "775.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "775.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Hat",
+            "value": "Green Mushroom Cat"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Cloud Pilot"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Lightning"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Dark Green Psychedelic"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Green Snow"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Teal"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

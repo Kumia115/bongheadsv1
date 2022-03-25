@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #361",
+    "symbol": "BH",
+    "image": "360.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "360.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Hat",
+            "value": "Smile Boonie"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gradient"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Psychedelic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Dark Purple"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red Ski"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Doctor"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

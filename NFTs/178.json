@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #179",
+    "symbol": "BH",
+    "image": "178.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "178.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Eyes",
+            "value": "Grey Circle"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Dark Blue Psychedelic"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Red Peace"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Purple Pikachu"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

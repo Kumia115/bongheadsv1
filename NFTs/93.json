@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #94",
+    "symbol": "BH",
+    "image": "93.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "93.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Body",
+            "value": "Orange Bandit"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Dark Blue Psychedelic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Light Blue"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Purple Dog"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue Ski"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

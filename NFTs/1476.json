@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #1477",
+    "symbol": "BH",
+    "image": "1476.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "1476.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Body",
+            "value": "Mixed Turtleneck"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Blue Dog"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Teal"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Dark Blue"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Dark Blue"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

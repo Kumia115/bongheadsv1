@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #540",
+    "symbol": "BH",
+    "image": "539.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "539.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Hat",
+            "value": "Psychedelic Viking"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Green Sky"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Light Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Diamond Bandit"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red Circle"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #897",
+    "symbol": "BH",
+    "image": "896.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "896.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Nug",
+            "value": "Lime Wave"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Reggae Whale"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Murky Space"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Pink Nuked"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

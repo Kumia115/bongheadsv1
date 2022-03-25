@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #455",
+    "symbol": "BH",
+    "image": "454.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "454.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Eyes",
+            "value": "Green Circle"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Hitman Fedora"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Blue Liquid"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Grandpa Knife"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

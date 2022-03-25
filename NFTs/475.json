@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #476",
+    "symbol": "BH",
+    "image": "475.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "475.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Nug",
+            "value": "Cyan"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Space"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Lumberjack"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Frog"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Skull Eyeball"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

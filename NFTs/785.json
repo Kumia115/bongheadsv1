@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #786",
+    "symbol": "BH",
+    "image": "785.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "785.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Body",
+            "value": "Brown Turtleneck"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Weed Glasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Fedora"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Lime"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

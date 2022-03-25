@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #2246",
+    "symbol": "BH",
+    "image": "2245.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "2245.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Body",
+            "value": "Pink Hipster"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Pink Gradient"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Grey Psychedelic"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Blue Wave"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

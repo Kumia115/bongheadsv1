@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #56",
+    "symbol": "BH",
+    "image": "55.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "55.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Lightning"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Blue Hand"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Pink Gradient"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Space Member"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red Circle"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

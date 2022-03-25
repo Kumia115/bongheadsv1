@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #436",
+    "symbol": "BH",
+    "image": "435.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "435.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Eyes",
+            "value": "Psychedelic Glasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Dark Purple"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Blue Mushroom Skull"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Red Peace"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Light Blue"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

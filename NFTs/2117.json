@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #2118",
+    "symbol": "BH",
+    "image": "2117.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "2117.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Teal"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Reggae Hippy"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Gradient"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Dark Blue Wave"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

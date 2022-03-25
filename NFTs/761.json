@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #762",
+    "symbol": "BH",
+    "image": "761.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "761.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Nug",
+            "value": "Light Purple"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Blue Hand"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Doctor"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Cloud Pilot"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Network"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Pink Gradient"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

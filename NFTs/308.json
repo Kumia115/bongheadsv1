@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #309",
+    "symbol": "BH",
+    "image": "308.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "308.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Psychedelic Boonie"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Yellow Ski"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Pink Hipster"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

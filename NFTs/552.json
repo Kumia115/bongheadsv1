@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #553",
+    "symbol": "BH",
+    "image": "552.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "552.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Eyes",
+            "value": "Cloud Pilot"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Blue Tracksuit"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Light Blue"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Brown Brain"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

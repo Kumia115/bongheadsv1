@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #1435",
+    "symbol": "BH",
+    "image": "1434.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "1434.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow Space"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Snake"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Green Old"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #2362",
+    "symbol": "BH",
+    "image": "2361.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "2361.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Dark Sky"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Reggae"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Grey Bounty Hunter"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "None"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

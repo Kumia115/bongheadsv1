@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #574",
+    "symbol": "BH",
+    "image": "573.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "573.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Hat",
+            "value": "Purple Pikachu"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Lime"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Snow Medical"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Dark Green Psychedelic"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Weed VR"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Light Green"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #1352",
+    "symbol": "BH",
+    "image": "1351.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "1351.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Mushroom"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Purple Hipster"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Yellow"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #1133",
+    "symbol": "BH",
+    "image": "1132.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "1132.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tan Hunter"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Strawberry Scoop"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Grey"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

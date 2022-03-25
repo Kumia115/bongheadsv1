@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #147",
+    "symbol": "BH",
+    "image": "146.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "146.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Body",
+            "value": "Suit"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "OnlyBong VR"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Light Green"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Blue Mushroom Skull"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

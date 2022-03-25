@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #925",
+    "symbol": "BH",
+    "image": "924.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "924.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Hat",
+            "value": "Weed Beret"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Red Jacket"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Yellow"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #772",
+    "symbol": "BH",
+    "image": "771.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "771.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Hat",
+            "value": "Fedora"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Brown Turtleneck"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Blue Liquid"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red Ski"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Purple"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

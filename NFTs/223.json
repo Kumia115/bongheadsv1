@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #224",
+    "symbol": "BH",
+    "image": "223.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "223.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Body",
+            "value": "Blue Scifi"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Light Purple"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Green Sky"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Yellow Space"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Hitman Fedora"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Snow"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

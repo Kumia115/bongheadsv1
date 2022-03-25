@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #1381",
+    "symbol": "BH",
+    "image": "1380.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "1380.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Light Green"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Milk"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Green Bandit"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Dark Blue"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

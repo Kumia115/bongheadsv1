@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #421",
+    "symbol": "BH",
+    "image": "420.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "420.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Hat",
+            "value": "Weed Beret"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Weed Glasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Blue Peace"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Light Purple"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

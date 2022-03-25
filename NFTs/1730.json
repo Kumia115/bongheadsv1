@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #1731",
+    "symbol": "BH",
+    "image": "1730.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "1730.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Psychedelic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Gradient"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hitman Suit"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "None"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

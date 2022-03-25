@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #489",
+    "symbol": "BH",
+    "image": "488.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "488.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Body",
+            "value": "Space Member"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Viking"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Weed Glasses"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Dark Green Psychedelic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

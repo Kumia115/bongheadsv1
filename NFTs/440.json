@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #441",
+    "symbol": "BH",
+    "image": "440.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "440.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Blue Psychedelic"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Warrior Sassy"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Purple Ghost"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Lightning"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Space VR"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

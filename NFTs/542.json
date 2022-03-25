@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #543",
+    "symbol": "BH",
+    "image": "542.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "542.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Lime"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Emoji Flower"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Bender Nug"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Light Green"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Purple Snow"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

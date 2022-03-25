@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #314",
+    "symbol": "BH",
+    "image": "313.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "313.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Body",
+            "value": "Green Gladiator"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Canadian Beret"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Green Sky"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Cloud Pilot"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Light Blue"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

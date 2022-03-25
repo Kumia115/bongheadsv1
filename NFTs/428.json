@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #429",
+    "symbol": "BH",
+    "image": "428.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "428.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Nug",
+            "value": "Cyan"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Viking"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red 3D"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Lightning"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Purple Snow"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Orange"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

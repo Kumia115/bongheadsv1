@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #944",
+    "symbol": "BH",
+    "image": "943.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "943.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Nug",
+            "value": "Blue Wave"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Blue Tracksuit"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Dark Blue"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Weed Beret"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

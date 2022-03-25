@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #253",
+    "symbol": "BH",
+    "image": "252.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "252.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Hat",
+            "value": "Blue Mushroom Skull"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gradient"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Flower"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Pink Hipster"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Lightning"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Green"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

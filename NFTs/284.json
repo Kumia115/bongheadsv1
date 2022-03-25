@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #285",
+    "symbol": "BH",
+    "image": "284.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "284.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Teal"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Headphones"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Light Purple"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Lime"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Doctor"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "No Eyes"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

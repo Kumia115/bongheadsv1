@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #353",
+    "symbol": "BH",
+    "image": "352.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "352.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Body",
+            "value": "Grandpa Knife"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Monkey"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Green Sky"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Dark Green Psychedelic"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red Circle"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

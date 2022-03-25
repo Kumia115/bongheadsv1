@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #57",
+    "symbol": "BH",
+    "image": "56.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "56.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Nug",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Space Weed"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Weed Boonie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Flower"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Light Blue"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

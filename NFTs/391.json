@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #392",
+    "symbol": "BH",
+    "image": "391.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "391.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Hat",
+            "value": "Milk"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Peace Weed"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Pink Gradient"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Warrior Sassy"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Lime"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

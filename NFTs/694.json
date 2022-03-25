@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #695",
+    "symbol": "BH",
+    "image": "694.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "694.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Hat",
+            "value": "Fedora"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Network"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Red Scifi"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "No Eyes"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Orange"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

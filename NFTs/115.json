@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #116",
+    "symbol": "BH",
+    "image": "115.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "115.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Eyes",
+            "value": "Peace Weed"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Blue Liquid"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Blue Liquid"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Dark Blue Psychedelic"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Pink Turtleneck"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Mushroom Skull"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #682",
+    "symbol": "BH",
+    "image": "681.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "681.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Dark Purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Blue Peace"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Flower"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Monkey"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Yellow"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

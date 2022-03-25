@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #508",
+    "symbol": "BH",
+    "image": "507.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "507.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Nug",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Monkey"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Network"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Green Snow"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Teal"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Peace"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #512",
+    "symbol": "BH",
+    "image": "511.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "511.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Body",
+            "value": "Tan Tracksuit"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Strawberry Milk"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Dark Purple"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue Aviator"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Green"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

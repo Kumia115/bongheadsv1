@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #134",
+    "symbol": "BH",
+    "image": "133.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "133.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Blue Nuked"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Weed Beret"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue Ski"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

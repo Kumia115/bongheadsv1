@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #730",
+    "symbol": "BH",
+    "image": "729.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "729.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Network"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Cloud"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Reggae Glasses"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Light Purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Orange Bandit"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Snake"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

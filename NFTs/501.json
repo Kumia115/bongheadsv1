@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #502",
+    "symbol": "BH",
+    "image": "501.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "501.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Lime"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Light Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Grandpa Knife"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Pikachu"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Weed Glasses"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

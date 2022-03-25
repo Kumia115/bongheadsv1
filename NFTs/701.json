@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #702",
+    "symbol": "BH",
+    "image": "701.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "701.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Nug",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Grey Circle"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Blue Samurai"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Green Dog"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Purple"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

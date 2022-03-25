@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #596",
+    "symbol": "BH",
+    "image": "595.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "595.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Body",
+            "value": "Warrior Alien"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Blue Mushroom Skull"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Light Green"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue Flame Circle"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Light Purple"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

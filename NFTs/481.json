@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #482",
+    "symbol": "BH",
+    "image": "481.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "481.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Light Green"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Brown Brain"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red 3D"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Lightning"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Light Purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Blue Hunter"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

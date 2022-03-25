@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #122",
+    "symbol": "BH",
+    "image": "121.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "121.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Body",
+            "value": "Brown Gladiator"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Light Purple"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Purple Dog"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Blue Liquid"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Teal"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Purple Circle"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

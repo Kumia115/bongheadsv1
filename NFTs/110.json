@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #111",
+    "symbol": "BH",
+    "image": "110.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "110.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Eyes",
+            "value": "Purple Circle"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Doctor"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Pink Mushroom Cat"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Purple Liquid"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Green"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

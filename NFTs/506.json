@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #507",
+    "symbol": "BH",
+    "image": "506.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "506.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Eyes",
+            "value": "Red Circle"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Chicken Burger"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Grey Turtleneck"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Yellow"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

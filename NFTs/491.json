@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #492",
+    "symbol": "BH",
+    "image": "491.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "491.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Psychedelic"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Red Peace"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Chicken Burger"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "White 3D"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Black Sky"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

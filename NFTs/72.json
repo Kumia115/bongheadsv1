@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #73",
+    "symbol": "BH",
+    "image": "72.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "72.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Green Snow"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Purple Circle"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Mushroom"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

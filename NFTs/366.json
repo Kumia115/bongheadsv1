@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #367",
+    "symbol": "BH",
+    "image": "366.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "366.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Icecream"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Blue Scifi"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Hipster"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Brown"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

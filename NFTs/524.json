@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #525",
+    "symbol": "BH",
+    "image": "524.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "524.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Body",
+            "value": "Hipster Vape"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Psychedelic"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "No Eyes"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Light Green"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Green Sky"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Chicken Burger"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

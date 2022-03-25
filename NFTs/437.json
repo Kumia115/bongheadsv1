@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #438",
+    "symbol": "BH",
+    "image": "437.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "437.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Viking"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Blue Peace"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Black 3D"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Blue"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

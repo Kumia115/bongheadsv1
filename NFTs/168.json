@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #169",
+    "symbol": "BH",
+    "image": "168.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "168.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Eyes",
+            "value": "Weed VR"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Icecream"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Blue Nuked"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Murky Space"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Cloud"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Dark Green Psychedelic"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

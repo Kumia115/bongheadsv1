@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #338",
+    "symbol": "BH",
+    "image": "337.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "337.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Hat",
+            "value": "Weed Boonie"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red Ski"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Warrior Pikachu"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

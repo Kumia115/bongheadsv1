@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #363",
+    "symbol": "BH",
+    "image": "362.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "362.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Dark Green Psychedelic"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Steam Punk"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Mixed Tracksuit"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Psychedelic Yoda"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

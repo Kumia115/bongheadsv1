@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #237",
+    "symbol": "BH",
+    "image": "236.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "236.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Lightning"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue Circle"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Dark Blue Psychedelic"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Viking"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Brown Turtleneck"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

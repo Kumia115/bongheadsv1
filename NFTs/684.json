@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #685",
+    "symbol": "BH",
+    "image": "684.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "684.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Nug",
+            "value": "Cyan"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Pink Samurai"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Smile Boonie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red 3D"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Green Cloud"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Brown"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

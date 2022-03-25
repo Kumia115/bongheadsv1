@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #255",
+    "symbol": "BH",
+    "image": "254.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "254.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Nug",
+            "value": "Blue Psychedelic"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Weed Glasses"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Mushroom Guy"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Diamond Bandit"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Lime"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

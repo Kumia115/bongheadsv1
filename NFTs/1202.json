@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #1203",
+    "symbol": "BH",
+    "image": "1202.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "1202.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Body",
+            "value": "Purple Turtleneck"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Brown Brain"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Psychedelic"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

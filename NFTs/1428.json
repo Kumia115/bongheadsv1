@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #1429",
+    "symbol": "BH",
+    "image": "1428.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "1428.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue Liquid"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Mutated Animal"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Dark Blue"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Blue Wave"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Blue Scifi"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

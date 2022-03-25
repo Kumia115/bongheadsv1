@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #265",
+    "symbol": "BH",
+    "image": "264.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "264.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Eyes",
+            "value": "Grey Circle"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Network"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Blue Hand"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Grey Turtleneck"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Light Blue"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #703",
+    "symbol": "BH",
+    "image": "702.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "702.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Body",
+            "value": "Purple Snow"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Murky Space"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "White 3D"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Dark Green Psychedelic"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Blue Ghost"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

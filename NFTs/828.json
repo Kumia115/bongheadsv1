@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #829",
+    "symbol": "BH",
+    "image": "828.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "828.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Nug",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Teal"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Yellow Gladiator"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Mushroom Man"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Red"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

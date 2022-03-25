@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #240",
+    "symbol": "BH",
+    "image": "239.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "239.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Body",
+            "value": "Green Hunter"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red Flame Circle"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Light Green"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Green Mushroom Cat"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Forest"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

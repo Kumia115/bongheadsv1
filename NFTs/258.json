@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #259",
+    "symbol": "BH",
+    "image": "258.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "258.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Nug",
+            "value": "Psychedelic"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pilot"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Light Blue"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Space Member"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Headphones"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

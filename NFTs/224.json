@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #225",
+    "symbol": "BH",
+    "image": "224.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "224.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Hat",
+            "value": "Milk"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Grandpa Bong"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "No Eyes"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #954",
+    "symbol": "BH",
+    "image": "953.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "953.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Nug",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Green Hunter"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Green Ghost"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Murky Space"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

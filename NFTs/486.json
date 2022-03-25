@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #487",
+    "symbol": "BH",
+    "image": "486.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "486.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Smile Boonie"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red Circle"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Lime"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Blue Hunter"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

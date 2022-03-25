@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #313",
+    "symbol": "BH",
+    "image": "312.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "312.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Hat",
+            "value": "Blue Pikachu"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Dark Blue Psychedelic"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Green Peace"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Steam Punk"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

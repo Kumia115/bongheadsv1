@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #272",
+    "symbol": "BH",
+    "image": "271.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "271.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Snow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Space Weed"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Darth Maul Yoda"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

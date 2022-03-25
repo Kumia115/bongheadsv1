@@ -1,0 +1,32 @@
+{
+    "name": "BongHeads #420",
+    "symbol": "BH",
+    "image": "419.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "419.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Name",
+            "value": "Chrome Skull Bong"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

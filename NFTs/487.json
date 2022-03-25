@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #488",
+    "symbol": "BH",
+    "image": "487.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "487.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Nug",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "None"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Pink Gladiator"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Flower"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Light Blue"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #480",
+    "symbol": "BH",
+    "image": "479.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "479.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Lime"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Grey Turtleneck"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Purple Dog"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Weed Glasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Black Sky"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

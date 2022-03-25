@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #104",
+    "symbol": "BH",
+    "image": "103.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "103.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Lime"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Hitman Fedora"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Yellow Ski"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Green Tracksuit"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

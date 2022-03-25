@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #302",
+    "symbol": "BH",
+    "image": "301.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "301.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Nug",
+            "value": "Dark Blue Psychedelic"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Green Cloud"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Steam Punk"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Warrior Pikachu"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Purple Dog"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

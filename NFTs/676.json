@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #677",
+    "symbol": "BH",
+    "image": "676.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "676.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Nug",
+            "value": "Dark Blue Psychedelic"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Green Peace"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Black Sky"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Reggae Whale"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Future"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

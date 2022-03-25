@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #536",
+    "symbol": "BH",
+    "image": "535.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "535.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Space"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Space Member"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Dark Blue Psychedelic"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Snake"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Lazer Skull"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

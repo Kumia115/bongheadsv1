@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #354",
+    "symbol": "BH",
+    "image": "353.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "353.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue Ski"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Lime"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Space Member"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Cloud"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Pink Mushroom Cat"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

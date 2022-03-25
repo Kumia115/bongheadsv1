@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #1503",
+    "symbol": "BH",
+    "image": "1502.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "1502.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Light Green"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Pink Dog"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Yellow Gladiator"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

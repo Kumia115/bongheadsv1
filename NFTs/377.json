@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #378",
+    "symbol": "BH",
+    "image": "377.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "377.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Eyes",
+            "value": "Snow"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Blue Liquid"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Snake"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Red Scifi"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Dark Purple"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #761",
+    "symbol": "BH",
+    "image": "760.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "760.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Nug",
+            "value": "Blue Psychedelic"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Mushroom"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Blue Liquid"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Grandpa Bong"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Yellow Ski"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

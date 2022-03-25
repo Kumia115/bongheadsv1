@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #563",
+    "symbol": "BH",
+    "image": "562.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "562.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Green Sky"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Monkey"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Pink Hipster"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Reggae Glasses"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

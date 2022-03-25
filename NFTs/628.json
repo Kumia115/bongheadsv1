@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #629",
+    "symbol": "BH",
+    "image": "628.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "628.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Eyes",
+            "value": "Hipster"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Dark Purple"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Purple Pikachu"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Suit"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

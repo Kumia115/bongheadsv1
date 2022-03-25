@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #1208",
+    "symbol": "BH",
+    "image": "1207.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "1207.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Body",
+            "value": "Lightblue Hunter"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Dark Blue"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Pink Ghost"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Cyan"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

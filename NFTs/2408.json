@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #2409",
+    "symbol": "BH",
+    "image": "2408.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "2408.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Nug",
+            "value": "Blue Wave"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Orange Bandit"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Grey Psychedelic"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Blue Liquid"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

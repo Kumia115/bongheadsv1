@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #10",
+    "symbol": "BH",
+    "image": "9.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "9.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Body",
+            "value": "Red Scifi"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Cyan"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Strawberry Milk"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Space"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Weed Glasses"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

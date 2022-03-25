@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #674",
+    "symbol": "BH",
+    "image": "673.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "673.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Lime"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Lumberjack"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue Aviator"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Mushroom"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

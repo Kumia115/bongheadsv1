@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #839",
+    "symbol": "BH",
+    "image": "838.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "838.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Yellow Jacket"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Blue Wave"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Sky"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Mushroom"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

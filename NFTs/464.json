@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #465",
+    "symbol": "BH",
+    "image": "464.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "464.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Network"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Grey Circle"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Chocolate Milk"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Red Tracksuit"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

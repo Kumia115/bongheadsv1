@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #13",
+    "symbol": "BH",
+    "image": "12.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "12.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Hat",
+            "value": "Soda"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Dark Blue Psychedelic"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Purple Snow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red Circle"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Pink"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #729",
+    "symbol": "BH",
+    "image": "728.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "728.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Light Green"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Red Tracksuit"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Green Circle"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Darth Maul Yoda"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Lightning"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Orange"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

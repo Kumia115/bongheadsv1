@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #396",
+    "symbol": "BH",
+    "image": "395.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "395.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Hat",
+            "value": "Blue Dog"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue Flame Circle"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Dark Sky"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Cyan"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Green Lumberjack"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

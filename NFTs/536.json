@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #537",
+    "symbol": "BH",
+    "image": "536.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "536.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Body",
+            "value": "Lumberjack"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red Flame Circle"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Light Green"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Canadian Beret"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #1546",
+    "symbol": "BH",
+    "image": "1545.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "1545.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Psychedelic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Soda"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Psychedelic"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Green Bountyhunter"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

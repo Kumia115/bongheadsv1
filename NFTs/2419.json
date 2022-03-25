@@ -1,0 +1,32 @@
+{
+    "name": "BongHeads #2420",
+    "symbol": "BH",
+    "image": "2419.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "2419.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Name",
+            "value": "Masterbong"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

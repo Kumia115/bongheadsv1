@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #907",
+    "symbol": "BH",
+    "image": "906.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "906.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Cyan"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Reggae Hipster"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Dark Blue"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Fedora"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

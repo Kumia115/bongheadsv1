@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #23",
+    "symbol": "BH",
+    "image": "22.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "22.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Hat",
+            "value": "Brown Icecream"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Green Sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Red Tracksuit"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Green Circle"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Green"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

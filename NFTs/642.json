@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #643",
+    "symbol": "BH",
+    "image": "642.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "642.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Hat",
+            "value": "Mushroom Skull"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Snow Medical"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Flower"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Purple"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

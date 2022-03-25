@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #663",
+    "symbol": "BH",
+    "image": "662.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "662.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Nug",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Suit"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Taco"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red Ski"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Psychedelic"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

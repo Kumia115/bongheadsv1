@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #896",
+    "symbol": "BH",
+    "image": "895.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "895.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Body",
+            "value": "Murky Spacemecha"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Psychedelic Fedora"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Psychedelic"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

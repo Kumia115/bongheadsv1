@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #203",
+    "symbol": "BH",
+    "image": "202.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "202.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Nug",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Purple Snow"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Blue Dog"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Reggae Glasses"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Psychedelic"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

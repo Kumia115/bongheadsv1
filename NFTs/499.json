@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #500",
+    "symbol": "BH",
+    "image": "499.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "499.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Network"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Green Nuked"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Viking"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Weed VR"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

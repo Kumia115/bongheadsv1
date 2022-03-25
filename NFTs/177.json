@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #178",
+    "symbol": "BH",
+    "image": "177.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "177.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Nug",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Bender Nug"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Doctor"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Peace Weed"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

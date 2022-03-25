@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #136",
+    "symbol": "BH",
+    "image": "135.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "135.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Body",
+            "value": "Pink Samurai"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue Ski"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Grey Headphones"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Teal"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #1295",
+    "symbol": "BH",
+    "image": "1294.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "1294.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Teal"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Blue Suit"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Hot Mom"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Yellow"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #1399",
+    "symbol": "BH",
+    "image": "1398.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "1398.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Nug",
+            "value": "Dark Blue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Grey Hipster"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Skeleton"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Liquid"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Psychedelic"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

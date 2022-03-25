@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #1553",
+    "symbol": "BH",
+    "image": "1552.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "1552.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Pink Hipster"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Canadian Beret"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Blue Liquid"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Grey"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

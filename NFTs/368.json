@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #369",
+    "symbol": "BH",
+    "image": "368.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "368.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Nug",
+            "value": "Light Purple"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Brown Icecream"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "No Eyes"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Lumberjack"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

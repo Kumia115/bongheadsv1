@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #483",
+    "symbol": "BH",
+    "image": "482.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "482.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Nug",
+            "value": "Blue Psychedelic"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pilot"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Murky Space"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Figure"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Blue Peace"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Purple"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

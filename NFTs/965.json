@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #966",
+    "symbol": "BH",
+    "image": "965.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "965.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Dark Blue"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Chocolate Scoop"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Blue Scifi"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Murky Space"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

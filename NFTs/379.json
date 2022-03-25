@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #380",
+    "symbol": "BH",
+    "image": "379.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "379.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Body",
+            "value": "Hitman"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Purple Ghost"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Green Circle"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Light Purple"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Dark Sky"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

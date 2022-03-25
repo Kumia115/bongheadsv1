@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #402",
+    "symbol": "BH",
+    "image": "401.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "401.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Green Sky"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Skull"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Snow Medical"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Hand"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Blue Liquid"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Purple"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

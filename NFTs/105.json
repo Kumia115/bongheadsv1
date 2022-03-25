@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #106",
+    "symbol": "BH",
+    "image": "105.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "105.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Nug",
+            "value": "Dark Green Psychedelic"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Dark Sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Yellow Samurai"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Flower"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Mushroom"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Purple Liquid"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

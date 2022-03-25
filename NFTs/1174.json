@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #1175",
+    "symbol": "BH",
+    "image": "1174.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "1174.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Yellow Gladiator"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Mushroom"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Reggae"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Forest"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

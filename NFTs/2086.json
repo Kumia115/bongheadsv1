@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #2087",
+    "symbol": "BH",
+    "image": "2086.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "2086.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Nug",
+            "value": "Blue Wave"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "None"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Red Scifi"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Grey Psychedelic"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Green"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #1076",
+    "symbol": "BH",
+    "image": "1075.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "1075.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Nug",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Grey Bounterhunter"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Blue Snail"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Pink Gradient"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

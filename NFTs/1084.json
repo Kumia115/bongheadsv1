@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #1085",
+    "symbol": "BH",
+    "image": "1084.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "1084.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Light Blue"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Green Bandit"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Hitman Fedora"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

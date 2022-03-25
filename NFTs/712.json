@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #713",
+    "symbol": "BH",
+    "image": "712.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "712.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Purple Snow"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Mushroom Skull"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Teal"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red Circle"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

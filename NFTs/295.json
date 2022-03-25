@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #296",
+    "symbol": "BH",
+    "image": "295.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "295.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Eyes",
+            "value": "Future"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gradient"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Lightning"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Weed Boonie"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Pink Gladiator"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Orange"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

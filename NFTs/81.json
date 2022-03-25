@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #82",
+    "symbol": "BH",
+    "image": "81.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "81.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Lightning"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red Circle"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Red Peace"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Milk"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

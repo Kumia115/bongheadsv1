@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #593",
+    "symbol": "BH",
+    "image": "592.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "592.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Body",
+            "value": "Blue Hunter"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Space"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Purple Liquid"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Green Mushroom Skull"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Reggae Glasses"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

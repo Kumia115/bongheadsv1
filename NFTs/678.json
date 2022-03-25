@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #679",
+    "symbol": "BH",
+    "image": "678.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "678.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Body",
+            "value": "Grandpa Bong"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Snow"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Snail"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Light Green"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Grey"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

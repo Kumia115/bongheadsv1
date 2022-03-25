@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #562",
+    "symbol": "BH",
+    "image": "561.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "561.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Lightning"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Smile Boonie"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Mixed Tracksuit"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Emoji Flower"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #527",
+    "symbol": "BH",
+    "image": "526.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "526.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Nug",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Green Lumberjack"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Purple Liquid"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Mushroom Skull"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red Ski"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

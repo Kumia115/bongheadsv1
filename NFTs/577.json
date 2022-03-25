@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #578",
+    "symbol": "BH",
+    "image": "577.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "577.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Nug",
+            "value": "Lime"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Light Green"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Peace Weed"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Purple Ghost"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Trident Hunter"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

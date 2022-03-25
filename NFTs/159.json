@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #160",
+    "symbol": "BH",
+    "image": "159.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "159.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Eyes",
+            "value": "Flower"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Red Tracksuit"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Lime"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Brain"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #9",
+    "symbol": "BH",
+    "image": "8.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "8.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Body",
+            "value": "Mixed Tracksuit"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Cloud Pilot"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Dark Blue Psychedelic"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Psychedelic Boonie"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

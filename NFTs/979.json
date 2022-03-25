@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #980",
+    "symbol": "BH",
+    "image": "979.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "979.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Body",
+            "value": "Purple Hipster"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gradient"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Psychedelic"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Soda"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

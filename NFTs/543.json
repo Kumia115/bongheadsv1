@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #544",
+    "symbol": "BH",
+    "image": "543.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "543.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink Gradient"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Peace"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Smile Boonie"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Cyan"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Dark Purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Warrior Pikachu"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

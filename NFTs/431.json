@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #432",
+    "symbol": "BH",
+    "image": "431.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "431.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Eyes",
+            "value": "Yellow Ski"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Black Sky"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Blue Liquid"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Monkey"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Brown Turtleneck"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

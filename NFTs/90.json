@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #91",
+    "symbol": "BH",
+    "image": "90.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "90.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Nug",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Snow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hipster Vape"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Canadian Beret"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

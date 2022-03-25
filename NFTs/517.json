@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #518",
+    "symbol": "BH",
+    "image": "517.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "517.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Cloud"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Green Tracksuit"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Light Purple"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Psychedelic Viking"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Peace"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

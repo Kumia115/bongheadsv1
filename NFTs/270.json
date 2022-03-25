@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #271",
+    "symbol": "BH",
+    "image": "270.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "270.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Lime"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Purple Pikachu"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Green Peace"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue Ski"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

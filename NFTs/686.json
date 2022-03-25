@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #687",
+    "symbol": "BH",
+    "image": "686.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "686.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Brown Turtleneck"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Blue Ghost"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Steam Punk"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Grey"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

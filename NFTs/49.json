@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #50",
+    "symbol": "BH",
+    "image": "49.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "49.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow Space"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Blue Scifi"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Blue Hand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Lazer Skull"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

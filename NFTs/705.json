@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #706",
+    "symbol": "BH",
+    "image": "705.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "705.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Light Green"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Snow Medical"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Canadian Beret"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Steam Punk"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Green Sky"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

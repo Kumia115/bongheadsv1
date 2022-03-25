@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #241",
+    "symbol": "BH",
+    "image": "240.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "240.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Eyes",
+            "value": "Blue Circle"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Network"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Blue Peace"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Blue Mushroom Skull"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Orange"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

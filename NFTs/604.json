@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #605",
+    "symbol": "BH",
+    "image": "604.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "604.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Hat",
+            "value": "Hand"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Green Cloud"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Dark Purple"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red Flame Circle"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Yellow Samurai"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

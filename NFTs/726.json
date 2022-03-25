@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #727",
+    "symbol": "BH",
+    "image": "726.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "726.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Diamond Bandit"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Dark Green Psychedelic"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red Aviator"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Brain"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #509",
+    "symbol": "BH",
+    "image": "508.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "508.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Body",
+            "value": "Pink Turtleneck"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red Aviator"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Psychedelic Viking"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Green Cloud"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

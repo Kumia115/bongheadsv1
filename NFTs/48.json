@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #49",
+    "symbol": "BH",
+    "image": "48.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "48.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Network"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Green Circle"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Cyan"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Cloud"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Icecream"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Diamond Bandit"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

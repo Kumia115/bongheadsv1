@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #48",
+    "symbol": "BH",
+    "image": "47.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "47.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Nug",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Green Peace"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "White 3D"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Hitman Fedora"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

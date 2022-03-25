@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #227",
+    "symbol": "BH",
+    "image": "226.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "226.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Nug",
+            "value": "Light Purple"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Lime"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tan Tracksuit"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gradient"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Weed VR"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Mushroom Guy"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

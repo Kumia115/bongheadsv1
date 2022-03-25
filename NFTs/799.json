@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #800",
+    "symbol": "BH",
+    "image": "799.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "799.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Cloud"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Green Mushroom Skull"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Green Turtleneck"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "White 3D"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

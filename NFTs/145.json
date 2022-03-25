@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #146",
+    "symbol": "BH",
+    "image": "145.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "145.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Nug",
+            "value": "Blue Psychedelic"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Space VR"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Blue Mushroom Skull"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Space Weed"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Dark Purple"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

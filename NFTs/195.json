@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #196",
+    "symbol": "BH",
+    "image": "195.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "195.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Hat",
+            "value": "Headphones"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Mixed Tracksuit"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "White 3D"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Blue Liquid"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #554",
+    "symbol": "BH",
+    "image": "553.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "553.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Eyes",
+            "value": "Green Circle"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Purple Dog"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Black Sky"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Light Green"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Space Weed"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Yellow"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

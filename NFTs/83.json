@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #84",
+    "symbol": "BH",
+    "image": "83.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "83.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Eyes",
+            "value": "Yellow Ski"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Mushroom Guy"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Murky Robot"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Yellow"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

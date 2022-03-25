@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #273",
+    "symbol": "BH",
+    "image": "272.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "272.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Eyes",
+            "value": "Future"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Green Cloud"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Mushroom Guy"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Dark Purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Red Scifi"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #188",
+    "symbol": "BH",
+    "image": "187.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "187.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Nug",
+            "value": "Cyan"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Mushroom Skull"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pilot"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Yellow Samurai"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Orange"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}

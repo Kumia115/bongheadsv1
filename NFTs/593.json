@@ -1,0 +1,52 @@
+{
+    "name": "BongHeads #594",
+    "symbol": "BH",
+    "image": "593.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "593.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9Jw7YmxUbQLdLBu9XjqfYaJYbzToy5vy464JRjCPdusP",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Lightning"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Green Peace"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red Aviator"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Headphones"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Nug",
+            "value": "Forest"
+        }
+    ],
+    "collection": {
+        "name": "BongHeads",
+        "family": "BongHeads"
+    }
+}
