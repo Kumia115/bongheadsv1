@@ -1,11 +1,11 @@
 {
     "name": "BongHeads #1573",
     "symbol": "BH",
-    "image": "1572.png",
+    "image": "https://www.arweave.net/rSuxztrj-oSeDSvvzAiEKplRxOmSUxq_l01S4TYJlzE?ext=png",
     "properties": {
         "files": [
             {
-                "uri": "1572.png",
+                "uri": "https://www.arweave.net/rSuxztrj-oSeDSvvzAiEKplRxOmSUxq_l01S4TYJlzE?ext=png",
                 "type": "image/png"
             }
         ],
